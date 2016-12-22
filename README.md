@@ -10,7 +10,7 @@ security weaknesses within your C/C++ code on the fly.
 
 ## Installation
 
-### MELPA
+### MELPA (coming soon)
 
 The preferred way to install `flycheck-flawfinder` is via
 [MELPA](http://melpa.org) - then you can just <kbd>M-x package-install RET
