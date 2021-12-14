@@ -55,7 +55,7 @@
 (flycheck-define-checker flawfinder
   "A checker using flawfinder.
 
-See `https://github.com/alexmurray/flawfinder/'."
+See `https://dwheeler.com/flawfinder/'."
   :command ("flawfinder"
             "-QD" ; just report errors without header / footer
             "-C" ; show column number
